@@ -73,11 +73,6 @@ See `BLOG_POST.md` for detailed analysis and interpretations.
 | `comprehensive_benchmark.py` | Benchmark all agents with relative value metrics |
 | `BLOG_POST.md` | Comprehensive technical analysis |
 
-## Documentation
-
-- **BLOG_POST.md**: Full technical analysis with visualizations and interpretations
-- **SPARSE_REWARD_ANALYSIS.md**: Detailed experimental results and hypotheses
-- **CLAUDE.md**: Implementation details and architecture notes
 
 ## Project Status
 
